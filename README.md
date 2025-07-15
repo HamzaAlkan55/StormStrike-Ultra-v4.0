@@ -24,7 +24,7 @@ StormStrike Ultra, çok güçlü ve özelleştirilebilir bir DDoS saldırı arac
 
  Kullanıcı dostu CLI arayüzü
 
-📦 Linyx kurulum
+📦 Linux kurulum
 
 sudo apt install wine
 
